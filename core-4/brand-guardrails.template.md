@@ -1,250 +1,164 @@
----
-# Business Context
-owner_name: "{{OWNER_NAME}}"
-company_name: "{{COMPANY_NAME}}"
-primary_market: "{{PRIMARY_MARKET}}"
-document_type: "brand_guidelines"
-
-# Document Metadata
-title: "Brand Guardrails Framework"
-description: "Complete brand identity and communication guidelines"
-last_updated: "{{CURRENT_DATE}}"
-version: "1.0"
-status: "template"
-
-# Customization Variables
-tone_of_voice: "{{TONE_OF_VOICE}}"
-target_audience: "{{TARGET_AUDIENCE}}"
-business_stage: "{{BUSINESS_STAGE}}"
-revenue_model: "{{REVENUE_MODEL}}"
-
-# Workflow
-next_review_date: "{{NEXT_REVIEW_DATE}}"
-responsible_team: "{{RESPONSIBLE_TEAM}}"
-approval_required: "yes"
----
-
-# Brand Guardrails Framework
-
-*Complete brand identity and communication guidelines*
+**Organization:** ___________________    
+**Date Initiated:** __/__/____    
+**Last Updated:** __/__/____  
 
 ---
 
-## 1. Brand Foundation
+1. Brand Essence  
+- [ ] **Mission Statement:** "______________________"    
+- [ ] **Vision Statement:** "______________________"    
+- [ ] **Core Values** (3–5):    
+  - [ ] Value 1    
+  - [ ] Value 2    
+  - [ ] Value 3    
+- [ ] **Brand Story:**  
 
-**Company Name:** {{COMPANY_NAME}}
-**Industry:** {{PRIMARY_MARKET}}
-**Target Audience:** {{TARGET_AUDIENCE}}
-
-**Brand Mission**
-{{BRAND_MISSION}}
-
-**Brand Vision**  
-{{BRAND_VISION}}
-
-**Brand Values**
-1. {{BRAND_VALUE_1}}
-2. {{BRAND_VALUE_2}}
-3. {{BRAND_VALUE_3}}
-4. {{BRAND_VALUE_4}}
-5. {{BRAND_VALUE_5}}
+- [ ] **Brand Archetype & Personality:**    
+  - Archetype: ____________    
+  - Personality Adjectives (e.g., "warm," "authoritative"): __________  
 
 ---
 
-## 2. Brand Personality
+2. Audience & Positioning  
+- [ ] **Primary Persona(s):**    
+  - Name: ____________    
+  - Demographics: ____________    
+  - Pain Points: ____________    
+  - Aspirations: ____________    
+- [ ] **Secondary Persona(s):** ____________    
+- [ ] **Unique Value Proposition:**  
 
-**Brand Archetype:** {{BRAND_ARCHETYPE}}
-
-**Personality Traits**
-- {{PERSONALITY_TRAIT_1}}
-- {{PERSONALITY_TRAIT_2}}
-- {{PERSONALITY_TRAIT_3}}
-- {{PERSONALITY_TRAIT_4}}
-
-**Brand Story**
-{{BRAND_STORY}}
-
----
-
-## 3. Target Audience
-
-**Primary Persona**
-- **Name:** {{PRIMARY_PERSONA_NAME}}
-- **Demographics:** {{PRIMARY_DEMOGRAPHICS}}
-- **Psychographics:** {{PRIMARY_PSYCHOGRAPHICS}}
-- **Pain Points:** {{PRIMARY_PAIN_POINTS}}
-- **Goals:** {{PRIMARY_GOALS}}
-- **Communication Preferences:** {{PRIMARY_COMMUNICATION}}
-
-**Secondary Persona**
-- **Name:** {{SECONDARY_PERSONA_NAME}}
-- **Key Characteristics:** {{SECONDARY_CHARACTERISTICS}}
+- [ ] **Competitive Landscape:**    
+  - Top 3 Competitors: ____________    
+  - Positioning Gaps & Opportunities: ____________  
 
 ---
 
-## 4. Value Proposition
+3. Visual Identity  
+3.1 Logo  
+- [ ] Primary Logo (with usage guidelines)    
+- [ ] Alternate Logos & Icons    
+- [ ] Clear Space & Minimum Size  
 
-**Unique Value Proposition**
-{{UNIQUE_VALUE_PROPOSITION}}
+3.2 Color Palette  
+- [ ] Primary Colors (Hex/RGB)    
+- [ ] Secondary/Accent Colors    
+- [ ] Usage Examples  
 
-**Key Differentiators**
-1. {{DIFFERENTIATOR_1}}
-2. {{DIFFERENTIATOR_2}}
-3. {{DIFFERENTIATOR_3}}
+3.3 Typography  
+- [ ] Heading Font    
+- [ ] Body Font    
+- [ ] Web-safe Fallbacks  
 
-**Competitive Positioning**
-{{COMPETITIVE_POSITIONING}}
-
----
-
-## 5. Voice & Tone Guidelines
-
-**Brand Voice:** {{BRAND_VOICE}}
-
-**Tone Variations by Context:**
-
-| Context | Tone | Example |
-|---------|------|----------|
-| Website Copy | {{WEBSITE_TONE}} | {{WEBSITE_EXAMPLE}} |
-| Customer Support | {{SUPPORT_TONE}} | {{SUPPORT_EXAMPLE}} |
-| Social Media | {{SOCIAL_TONE}} | {{SOCIAL_EXAMPLE}} |
-| Sales Materials | {{SALES_TONE}} | {{SALES_EXAMPLE}} |
-| Internal Comms | {{INTERNAL_TONE}} | {{INTERNAL_EXAMPLE}} |
-
-**Voice Do's:**
-- {{VOICE_DO_1}}
-- {{VOICE_DO_2}}
-- {{VOICE_DO_3}}
-
-**Voice Don'ts:**
-- {{VOICE_DONT_1}}
-- {{VOICE_DONT_2}}
-- {{VOICE_DONT_3}}
+3.4 Imagery & Iconography  
+- [ ] Photography Style & Filters    
+- [ ] Illustration/Icon Style    
+- [ ] Do's & Don'ts  
 
 ---
 
-## 6. Visual Identity
-
-**Logo Guidelines**
-- Primary Logo: {{PRIMARY_LOGO}}
-- Logo Variations: {{LOGO_VARIATIONS}}
-- Minimum Size: {{LOGO_MIN_SIZE}}
-- Clear Space: {{LOGO_CLEAR_SPACE}}
-
-**Color Palette**
-- Primary Color: {{PRIMARY_COLOR}} ({{PRIMARY_HEX}})
-- Secondary Color: {{SECONDARY_COLOR}} ({{SECONDARY_HEX}})
-- Accent Colors: {{ACCENT_COLORS}}
-- Neutral Colors: {{NEUTRAL_COLORS}}
-
-**Typography**
-- Primary Font: {{PRIMARY_FONT}}
-- Secondary Font: {{SECONDARY_FONT}}
-- Web Fonts: {{WEB_FONTS}}
-- Font Sizes: {{FONT_SIZES}}
-
-**Imagery Style**
-- Photography Style: {{PHOTO_STYLE}}
-- Image Treatment: {{IMAGE_TREATMENT}}
-- Stock Photo Guidelines: {{STOCK_GUIDELINES}}
+4. Verbal Identity  
+- [ ] **Tone of Voice:**    
+  - Do: ____________    
+  - Don't: ____________    
+- [ ] **Brand Lexicon:** (preferred vs. avoided terms)    
+- [ ] **Messaging Architecture:**    
+  - Elevator Pitch    
+  - 3–4 Key Messages    
+- [ ] **Tagline/Slogan:** ____________  
 
 ---
 
-## 7. Messaging Framework
-
-**Elevator Pitch (30 seconds)**
-{{ELEVATOR_PITCH}}
-
-**Key Messages**
-1. **{{MESSAGE_1_TITLE}}:** {{MESSAGE_1_CONTENT}}
-2. **{{MESSAGE_2_TITLE}}:** {{MESSAGE_2_CONTENT}}
-3. **{{MESSAGE_3_TITLE}}:** {{MESSAGE_3_CONTENT}}
-
-**Tagline/Slogan**
-{{TAGLINE}}
-
-**Call-to-Action Variations**
-- Primary CTA: {{PRIMARY_CTA}}
-- Secondary CTA: {{SECONDARY_CTA}}
-- Urgent CTA: {{URGENT_CTA}}
+5. Brand Culture & Values in Practice  
+- [ ] **Culture Code:** (behaviors, rituals, traditions)    
+- [ ] **Employee/Partner Manifesto**    
+- [ ] **Internal Communication Guidelines**  
 
 ---
 
-## 8. Content Guidelines
+6. Content Strategy & Pillars  
+- [ ] **Content Pillars:**    
 
-**Content Pillars**
+| Pillar Name | Description | Core Topics |
+|-------------|-------------|-------------|
+| Pillar 1 | ____________ | ____________ |
+| Pillar 2 | ____________ | ____________ |
+| Pillar 3 | ____________ | ____________ |
 
-| Pillar | Focus | Content Types | Frequency |
-|--------|-------|---------------|----------|
-| {{PILLAR_1_NAME}} | {{PILLAR_1_FOCUS}} | {{PILLAR_1_TYPES}} | {{PILLAR_1_FREQUENCY}} |
-| {{PILLAR_2_NAME}} | {{PILLAR_2_FOCUS}} | {{PILLAR_2_TYPES}} | {{PILLAR_2_FREQUENCY}} |
-| {{PILLAR_3_NAME}} | {{PILLAR_3_FOCUS}} | {{PILLAR_3_TYPES}} | {{PILLAR_3_FREQUENCY}} |
-
-**Content Standards**
-- Minimum word count: {{MIN_WORD_COUNT}}
-- Include call-to-action: {{CTA_REQUIREMENT}}
-- Brand mention frequency: {{BRAND_MENTION}}
-- Link strategy: {{LINK_STRATEGY}}
+- [ ] **Content Formats:** (e.g., blog, video, email, social)    
+- [ ] **Channel Prioritization:** (e.g., LinkedIn, Instagram)    
+- [ ] **Content Calendar Cadence:** ____________  
 
 ---
 
-## 9. Channel-Specific Guidelines
-
-**Website**
-- Header message: {{WEBSITE_HEADER}}
-- Navigation style: {{WEBSITE_NAV}}
-- Content approach: {{WEBSITE_CONTENT}}
-
-**Social Media**
-- Platform priority: {{SOCIAL_PRIORITY}}
-- Posting frequency: {{POSTING_FREQUENCY}}
-- Hashtag strategy: {{HASHTAG_STRATEGY}}
-- Community management: {{COMMUNITY_APPROACH}}
-
-**Email Marketing**
-- Subject line style: {{EMAIL_SUBJECT}}
-- Signature format: {{EMAIL_SIGNATURE}}
-- Newsletter tone: {{NEWSLETTER_TONE}}
-
----
-
-## 10. Legal & Compliance
-
-**Required Disclaimers**
-{{REQUIRED_DISCLAIMERS}}
-
-**Prohibited Terms/Claims**
-{{PROHIBITED_TERMS}}
-
-**Copyright Guidelines**
-{{COPYRIGHT_GUIDELINES}}
-
-**Privacy Standards**
-{{PRIVACY_STANDARDS}}
+7. Trends & Monitoring  
+- [ ] **Trend Tools & Alerts:**    
+  - Google Trends (track 5–10 keywords)    
+  - BuzzSumo (industry topic alerts)    
+  - Hashtagify/RiteTag (monitor 5–10 hashtags)    
+  - Social Listening (Sprout Social/Hootsuite streams)    
+  - Google Alerts (brand + top keywords)    
+- [ ] **Competitor & Influencer Scan:**    
+  - Weekly review of top 3 competitors' content    
+  - Identify 2–3 rising micro-influencers/hashtags    
+- [ ] **Trend Evaluation Workflow:**    
+  1. **Collect** trends in shared doc    
+  2. **Assess** (High/Med/Low relevance vs. Pillars)    
+  3. **Plan** high-relevance trends in next 2-week calendar    
+  4. **Execute** (assign owner, draft, schedule)    
+  5. **Review** performance vs. baseline    
+- [ ] **Reporting & Integration:**    
+  - Cadence: Weekly trend roundup by **Owner** ________    
+  - Format: Slack post or shared doc/email    
+  - Quarterly "Trend Wins" review    
+- [ ] **Team Inputs:**    
+  - Weekly "trend tip" in Slack    
+  - Monthly brainstorm session  
 
 ---
 
-## 11. Quality Control
-
-**Approval Process**
-1. {{APPROVAL_STEP_1}}
-2. {{APPROVAL_STEP_2}}
-3. {{APPROVAL_STEP_3}}
-
-**Brand Checklist**
-- [ ] Aligns with brand voice and tone
-- [ ] Uses approved visual elements
-- [ ] Includes appropriate disclaimers
-- [ ] Targets correct audience
-- [ ] Supports key messages
-- [ ] Follows channel guidelines
-- [ ] Meets quality standards
-
-**Review Schedule**
-- Quarterly brand review: {{QUARTERLY_REVIEW}}
-- Annual brand audit: {{ANNUAL_AUDIT}}
-- Campaign post-mortems: {{CAMPAIGN_REVIEW}}
+8. Legal & Compliance  
+- [ ] **Mandatory Disclosures:** (e.g., "Not medical advice")    
+- [ ] **Prohibited Claims/Terms:** (e.g., "cures," "detox")    
+- [ ] **Privacy & Data Security Guidelines**    
+- [ ] **Accessibility Standards:** (WCAG level)  
 
 ---
 
-*Use this framework to ensure consistent brand experience across all touchpoints*
+9. Governance & Workflow  
+- [ ] **Roles & Responsibilities:**    
+  - Content Owner: ________    
+  - Reviewer(s): ________    
+- [ ] **Approval Process & Turnaround Times**    
+- [ ] **Escalation Path**    
+- [ ] **Version Control & Change Log Location**  
+
+---
+
+10. Performance Measurement & Gamification  
+- [ ] **Metrics to Track:**    
+  - Impressions, Likes, Shares, Comments, Engagement Rate    
+- [ ] **Reporting Schedule:**    
+  - Weekly / Bi-weekly / Monthly    
+- [ ] **Points Rules:**    
+  - 1 pt per 100 impressions    
+  - 1 pt per 10 likes    
+  - 2 pts per share    
+  - 1 pt per 5 comments    
+  - Bonus 10 pts for top engagement post    
+- [ ] **Reporting Templates:** (dashboard links, docs)  
+
+---
+
+11. Assets & Resources  
+- [ ] **Asset Library:** (shared drive/DAM link)    
+- [ ] **Template Gallery:** (social, email, docs)    
+- [ ] **Tools & Platforms:** (access & guidelines)  
+
+---
+
+12. Notes & Change Log  
+- [ ] **Change Log Entries** (date & summary)    
+- [ ] **Open Items & Exceptions**  
+
+*Workflow related not required for brand
