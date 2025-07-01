@@ -1,0 +1,72 @@
+# Business Orientation & Onboarding Configuration
+# Fill out this YAML file to customize your orientation assessment
+
+# Basic Information
+owner_name: "Your Name"
+company_name: "Your Company Name"
+primary_market: "Your Industry"
+current_date: "2025-07-01"
+
+# Customization Variables
+tone_of_voice: "professional"
+business_stage: "startup"  # startup, growth, scale, mature
+revenue_model: "Your revenue model"
+
+# Workflow Management
+next_review_date: "2025-10-01"  # Quarterly review
+responsible_team: "Leadership"
+
+# Business Baseline Metrics
+annual_revenue: "$500K"  # Current annual run-rate
+monthly_recurring_revenue: "$15K"  # MRR if applicable
+monthly_leads: "85"  # Average monthly leads
+primary_conversion_rate: "Website → Lead: 12%"  # Your main conversion metric
+top_kpi: "Customer Acquisition Cost (CAC)"  # Most important KPI
+growth_rate: "+35%"  # 12-month growth rate
+cash_runway: "14 months"  # How long current cash lasts
+team_size: "5 people"  # Current team size
+
+# Strategic Focus
+biggest_lever: "Automate lead nurturing to convert 25% more prospects without adding sales staff"
+primary_goal: "Reach $1.2M ARR with 40% margins while maintaining 4-day work weeks"
+
+# Current Challenges
+primary_bottleneck: "Manual follow-up processes consuming 15+ hours/week"
+past_failures: "Generic CRM that didn't fit workflow; content marketing without strategy"
+resource_constraints: "Limited budget for new tools; need to maximize existing resources"
+market_challenges: "Increasing competition; harder to differentiate"
+operational_issues: "Inconsistent processes across team members"
+
+# Success Definition
+success_definition: "$1.2M annual revenue, 200+ active customers, 40% gross margins, team working 4-day weeks"
+critical_deadlines: "Q4 2025: Complete automation before busy season; Q1 2026: Launch premium tier"
+non_negotiables: "Customer-first culture, transparent pricing, work-life balance"
+
+# Decision-Making Structure
+decision_maker: "[Your Name] - Founder & CEO"
+daily_contact: "[Your Name] - Primary Contact"
+key_stakeholders: "Operations Manager, Lead Developer, Customer Success Manager"
+external_advisors: "Business mentor, industry consultant"
+
+# Current Systems Audit
+current_tech_stack: "CRM: HubSpot, Email: Mailchimp, Analytics: Google Analytics, Project: Asana"
+documentation_status: "Basic processes documented, scattered across tools"
+process_maturity: "Informal processes, some documented, inconsistent execution"
+
+# Implementation Priorities
+priority_domain_1: "2-growth-engine (marketing automation)"
+priority_domain_2: "3-sales-pipeline (consistent sales process)"
+priority_domain_3: "4-delivery-success (customer onboarding)"
+
+medium_domain_1: "6-finance-admin (better financial tracking)"
+medium_domain_2: "7-people-culture (team processes)"
+
+future_domain_1: "5-product-innovation (product roadmap)"
+future_domain_2: "8-tech-stack (system integration)"
+
+# Usage Instructions:
+# 1. Replace all placeholder values with your actual business information
+# 2. Be specific with metrics - use real numbers
+# 3. Prioritize domains based on your biggest business needs
+# 4. Update this quarterly to track business evolution
+# 5. Use priorities to guide which domain templates to focus on first
