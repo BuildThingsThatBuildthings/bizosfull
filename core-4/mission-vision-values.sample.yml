@@ -1,0 +1,56 @@
+# Mission, Vision & Values Configuration
+# Fill out this YAML file to customize your mission-vision-values template
+
+# Basic Information
+owner_name: "Your Name"
+company_name: "Your Company Name"  
+primary_market: "Your Industry"
+current_date: "2025-07-01"
+
+# Customization Variables
+tone_of_voice: "professional"  # professional, casual, technical, friendly
+target_audience: "Your ideal customers"
+business_stage: "startup"  # startup, growth, scale, mature
+revenue_model: "Your business model"  # subscription, one-time, service, product
+
+# Workflow Management
+next_review_date: "2025-10-01"  # Quarterly review recommended
+responsible_team: "Leadership Team"
+
+# Foundational Framework
+foundational_belief: "your core belief about the world/market/problem"
+organizational_imperative: "what you must do because of that belief"
+
+# Vision Statement (Future state you're creating)
+vision_statement: "A clear picture of the future you're building"
+
+# Mission Statement (What you do and why it matters)
+mission_statement: "What you do, who you serve, and why it matters"
+
+# Core Values (3-5 guiding principles)
+value_1_name: "Value Name"
+value_1_definition: "What this value means"
+value_1_behavior: "How this shows up in daily actions"
+
+value_2_name: "Value Name"
+value_2_definition: "What this value means"
+value_2_behavior: "How this shows up in daily actions"
+
+value_3_name: "Value Name"
+value_3_definition: "What this value means"
+value_3_behavior: "How this shows up in daily actions"
+
+value_4_name: "Value Name"
+value_4_definition: "What this value means"
+value_4_behavior: "How this shows up in daily actions"
+
+value_5_name: "Value Name"
+value_5_definition: "What this value means"
+value_5_behavior: "How this shows up in daily actions"
+
+# Usage Instructions:
+# 1. Replace placeholder values with your actual business information
+# 2. Delete unused value entries if you have fewer than 5 values
+# 3. Keep definitions clear and behavioral examples specific
+# 4. Review and update quarterly to ensure continued relevance
+# 5. Use this file to generate your personalized mission-vision-values document
